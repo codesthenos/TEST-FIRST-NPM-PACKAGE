@@ -1,17 +1,21 @@
 {
   "name": "first-npm-package-test",
   "version": "1.0.0",
+  "description": "",
   "main": "script.js",
-  "dependencies": {
-    "codesthenos-first-npm-package": "^1.0.0"
-  },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codesthenos/TEST-FIRST-NPM-PACKAGE.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "module",
-  "description": ""
+  "bugs": {
+    "url": "https://github.com/codesthenos/TEST-FIRST-NPM-PACKAGE/issues"
+  },
+  "homepage": "https://github.com/codesthenos/TEST-FIRST-NPM-PACKAGE#readme"
 }

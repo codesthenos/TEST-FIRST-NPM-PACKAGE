@@ -1,3 +1,1 @@
-import { codesthenosHello } from 'codesthenos-first-npm-package'
-
-codesthenosHello({ name: 'Test name' })
+import './node_modules/codesthenos-first-npm-package/index.js'
